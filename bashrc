@@ -1,7 +1,7 @@
 export EDITOR=vim
 
 # Aliases
-source ~/bash_aliases
+source ~/.bash_aliases
 
 # Custom prompt
 source ~/.bash_prompt
